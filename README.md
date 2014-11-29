@@ -15,4 +15,5 @@ Ps: if you havent gotten the link from me the scripts wont work as they check fo
 current Users:
 iMeh
 Lexxes
-Toltar
+My little Brother
+Secrets
