@@ -1,6 +1,10 @@
-LeagueSharpBeta
+LeagueSharp Beta
 ===============
-League sharp Assemblies by xSalice :>
+Not yet published League sharp Assemblies by xSalice :>
+
+If you have gained Access to this, it means that you have been nice or helpful to me and/or I just like you ^^
+Please contact me via Pull Requests, Skype or Ingame Chat if something is broken or bugged... 
+Currently working but NOT FINISHED : ZED (religion <3)
 
 If you like my work and want to donate to give me even more motivation :D Please click here:
 
